@@ -1,4 +1,4 @@
-# Azarbayjab1-
+# https://t.me/Azarbayjab1 
 name: Release Build
 on:
   workflow_dispatch:
