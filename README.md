@@ -344,29 +344,4 @@ jobs:
         with:
           name: AAB
           path: app/build/outputs/bundle/playRelease/app-play-release.aabinstagram.video.downloader.story.saver
-com.sdev.alphav2ray
-com.binwizteam.vpn
-com.microsoft.emmx
-com.sec.android.app.samsungapps
-com.nexters.herowars
-com.instagram.android
-live.wallpaper.widgets3d
-ir.mci.ecareapp
-com.netmod.syna
-com.sec.android.app.billing
-com.v2cross.proxy
-com.game.space.shooter2
-com.spotify.music
-com.instagram.barcelona
-com.zhiliaoapp.musically
-com.transparent.livewallpaper.screen.transparentwallpaper.digitalclock
-com.crosserr.trojan
-com.agn.v2ray
-cn.wps.moffice_eng
-com.wave.livewallpaper
-video.player.videoplayer
-com.v2ray.v2fly
-com.v2ray.f
-com.v2ray.ang
-com.facebook.katana
-com.miui.videoplayer
+com.sdev.alphav2rayhttps://t.me/AZARBAYJAB1
